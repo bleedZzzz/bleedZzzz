@@ -33,7 +33,7 @@
 	<tr>
 		<td width="35%" valign="middle" align="left">
 			<!-- Using the existing portrait file in assets/ -->
-			<img src="assets/𝘔𝘪𝘺𝘢𝘮𝘰𝘵𝘰%20𝘔𝘶𝘴𝘢𝘴𝘩𝘪.jpg" alt="portrait" width="220" style="border-radius:12px; height:auto;" />
+			<img src="assets/𝘔𝘪𝘺𝘢𝘮𝘰𝘵𝘰%20𝘔𝘶𝘴𝘢𝘴𝘩𝘪.jpg" alt="portrait" width="220" style="border-radius:10px; height:auto;" />
 		</td>
 		<td width="75%" valign="middle">
 			<p align="left">
